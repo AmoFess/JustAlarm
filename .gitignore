@@ -1,0 +1,14 @@
+__pycache__
+*.pyc
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.swn
+*.exe
+build/
+dist/
+*.spec
+*.ico
+*.png
