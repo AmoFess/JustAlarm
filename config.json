@@ -1,0 +1,9 @@
+{
+  "alarms": [
+    {
+      "time": "08:00",
+      "sound": "sounds/alarm.mp3",
+      "repeat": true
+    }
+  ]
+}
